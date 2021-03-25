@@ -1,42 +1,53 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Braden Burt's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Braden Burt
+<!-- The second prophet of The Church of Jesus Christ of Latter-day Saints. -->
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="braden.c.burt@gmail.com">braden.c.burt@gmail.com</a>
+<!-- | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a> -->
+| <a href="https://www.linkedin.com/in/bradenburt/">LinkedIn</a>
+| <a href="https://github.com/bradenburt25">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2016 - 2021`
+__Brigham Young University - Idaho__, Rexburg, ID
 
 - Full academic scholarship with 4.0 GPA
-
+<!-- 
 `Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 4.0 Major GPA -->
 
 
 ## Related Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`May 2020 - August 2020`
+__Centauri Corp__, Dayton, OH
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
+<!-- - Worked on novel methods for soil sampling to reduce laboratory measurements
 - Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Published a journal article in Environmental Quality. -->
+
+- Responsible for assisting in the research and development of a new laboratory focused on platform simulation and modeling
+- Specific tasks included development of test CAD models, initializing and testing of optical simulation toolsets, and evaluation of CAD configurations for simulation usage
+
+`June 2019 - August 2019`
+__Center for Space Nuclear Research__, Idaho Falls, ID
+
+- Summer Fellow as part of the Universities Space Nuclear Research Association with an emphasis in reaching a quota issued by NASA for Plutonium-238 production
+- Used Serpent, a Monte-Carlo depletion code, to model Plutonium-238 production in Idaho National Laboratory’s Advanced Test Reactor
+- Analyzed Serpent output files and gave recommendations for how to further pursue the goal
+
 
 ### Data Science Lead
 
@@ -77,8 +88,8 @@ __Pinnacle Management Group__,
 __Math Tutor__, LDSBC
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2013 - 2015`
+__Service Missionary__, Santiago de Chile
 
 
 
