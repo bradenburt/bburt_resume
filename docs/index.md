@@ -2,7 +2,7 @@
 layout: cv
 title: Braden Burt's Resume
 ---
-# Braden Burt is the Human
+# Braden Burt
 <!-- The second prophet of The Church of Jesus Christ of Latter-day Saints. -->
 
 <div id="webaddress">
