@@ -19,7 +19,7 @@ title: Braden Burt's Resume
 `2016 - 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Bachelor's Degree in Computational Physics
 
 <!-- `Expected 2029` -->
 <!-- __Brigham Young University - Idaho__, Rexburg, ID -->
@@ -95,6 +95,6 @@ __Service Missionary__, Santiago de Chile
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2021 -->
 
 
