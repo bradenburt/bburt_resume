@@ -20,11 +20,11 @@ title: Braden Burt's Resume
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Full academic scholarship with 4.0 GPA
-<!-- 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA -->
+<!-- `Expected 2029` -->
+<!-- __Brigham Young University - Idaho__, Rexburg, ID -->
+
+<!-- - 4.0 Major GPA -->
 
 
 ## Related Experience
@@ -34,9 +34,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `May 2020 - August 2020`
 __Centauri Corp__, Dayton, OH
 
-<!-- - Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality. -->
+<!-- - Worked on novel methods for soil sampling to reduce laboratory measurements -->
+<!-- - Used R and Visual Sample Plan to establish new sampling algorithms -->
+<!-- - Published a journal article in Environmental Quality. -->
 
 - Responsible for assisting in the research and development of a new laboratory focused on platform simulation and modeling
 - Specific tasks included development of test CAD models, initializing and testing of optical simulation toolsets, and evaluation of CAD configurations for simulation usage
