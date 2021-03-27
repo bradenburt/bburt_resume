@@ -49,43 +49,53 @@ __Center for Space Nuclear Research__, Idaho Falls, ID
 - Analyzed Serpent output files and gave recommendations for how to further pursue the goal
 
 
-### Data Science Lead
+<!-- I'm thinking I should change the names of these but I'm not quite sure how to change them -->
+### Data Science Lead 
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`September 2020 - December 2020`
+__Madison High School Basketball__, Co-Project Manager
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Managed a team of students who received a local high school basketball team’s statistics
+- Created visualizations and generated useful feedback in order to better help coaches and players understand their performance
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`January 2020 - April 2020`
+__Machine Learning Group__, Group Member
 
+- Secured local weather data in order to analyze future predictions with machine learning, cleaned and prepped a dataset of over 118,000 rows using R
+- Used Python to use two machine learning methods, Neural Networks and Random Trees, to produce predictions about the upcoming weather in the local area
+
+<!-- Again, have to change the section header -->
 ### Data Science Consulting Team
 
-`January 2027 - April 2027`
-__Imagine Learning__
+`September 2019 - March 2020`
+__Materials Simulation Research Group__
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+- Materials science research into new quinary alloys using Density Functional Theory calculations in VASP, including machine learning in various languages including UNIX, Python and C++
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`November 2017 - December 2017`
+__High Altitude Balloon Research__ 
+
+- Built and coded a data logger using an Arduino Platform to measure the changing temperature from the Troposphere to the Stratosphere
+- Launched the data logger on a near space project where a high altitude weather balloon rose 30 kilometers off the ground and collected the changing temperature
+- Compared results to previous studies and findings from other universities to determine the validity and accuracy of experiment instrumentation and readings
+
 
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2018 - 2019`
+__Physics Tutoring Lab Coordinator__, BYU-I
+
+
+ `September 2017 - December 2017`
+ __Cooperative Observer Program__, Weather Data Researcher
+
+- Conduct data analysis and entry into Cooperative Observer Program (COOP) for the National Weather Service (NWS), Regional Climate Center Program, and National Climatic Data Center
+- Collect key weather measurements and observations including daily temperature, rainfall, wind speed, evaporation and snowfall to measure long term climate changes  
+- Operate and oversee weather station including: Anemometer, Class A Evaporation station, and Nimbus digital thermometer 
+
 
 
 `2013 - 2015`
