@@ -2,6 +2,9 @@
 layout: cv
 title: Braden Burt's Resume
 ---
+
+<!-- For some help on the wording see [this repository](https://github.com/BYUIDSS/resume_guide) -->
+
 # Braden Burt
 <!-- The second prophet of The Church of Jesus Christ of Latter-day Saints. -->
 
@@ -19,27 +22,16 @@ title: Braden Burt's Resume
 `2016 - 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- Bachelor's Degree in Computational Physics
 
-<!-- `Expected 2029` -->
-<!-- __Brigham Young University - Idaho__, Rexburg, ID -->
-
-<!-- - 4.0 Major GPA -->
-
-
-## Related Experience
+## Relevant Experience
 
 ### Internships
 
 `May 2020 - August 2020`
 __Centauri Corp__, Dayton, OH
 
-<!-- - Worked on novel methods for soil sampling to reduce laboratory measurements -->
-<!-- - Used R and Visual Sample Plan to establish new sampling algorithms -->
-<!-- - Published a journal article in Environmental Quality. -->
-
 - Responsible for assisting in the research and development of a new laboratory focused on platform simulation and modeling
-- Specific tasks included development of test CAD models, initializing and testing of optical simulation toolsets, and evaluation of CAD configurations for simulation usage
+- Developed test CAD models, initializing and testing of optical simulation toolsets, and evaluation of CAD configurations for simulation usage
 
 `June 2019 - August 2019`
 __Center for Space Nuclear Research__, Idaho Falls, ID
@@ -49,29 +41,22 @@ __Center for Space Nuclear Research__, Idaho Falls, ID
 - Analyzed Serpent output files and gave recommendations for how to further pursue the goal
 
 
-<!-- I'm thinking I should change the names of these but I'm not quite sure how to change them -->
-### Data Science Lead 
+### Data Science Project Manager
 
 `September 2020 - December 2020`
-__Madison High School Basketball__, Co-Project Manager
+__Madison High School__, Consultant through Research and Business Development Center
 
 - Managed a team of students who received a local high school basketball team’s statistics
 - Created visualizations and generated useful feedback in order to better help coaches and players understand their performance
 
 
-`January 2020 - April 2020`
-__Machine Learning Group__, Group Member
-
-- Secured local weather data in order to analyze future predictions with machine learning, cleaned and prepped a dataset of over 118,000 rows using R
-- Used Python to use two machine learning methods, Neural Networks and Random Trees, to produce predictions about the upcoming weather in the local area
-
-<!-- Again, have to change the section header -->
-### Data Science Consulting Team
+### Scientific Research Teams
 
 `September 2019 - March 2020`
 __Materials Simulation Research Group__
 
-- Materials science research into new quinary alloys using Density Functional Theory calculations in VASP, including machine learning in various languages including UNIX, Python and C++
+- Materials science research into new quinary alloys using Density Functional Theory calculations 
+- Implemented machine learning strategies done in languages and tools including Python, Git/Github, UNIX, VASP, and C++
 
 
 `November 2017 - December 2017`
@@ -82,13 +67,6 @@ __High Altitude Balloon Research__
 - Compared results to previous studies and findings from other universities to determine the validity and accuracy of experiment instrumentation and readings
 
 
-
-## Service and Work History
-
-`2018 - 2019`
-__Physics Tutoring Lab Coordinator__, BYU-I
-
-
  `September 2017 - December 2017`
  __Cooperative Observer Program__, Weather Data Researcher
 
@@ -97,11 +75,14 @@ __Physics Tutoring Lab Coordinator__, BYU-I
 - Operate and oversee weather station including: Anemometer, Class A Evaporation station, and Nimbus digital thermometer 
 
 
+## Service and Work History
+
+`2018 - 2019`
+__Physics Tutoring Lab Coordinator__, BYU-I
+
 
 `2013 - 2015`
 __Service Missionary__, Santiago de Chile
-
-
 
 <!-- ### Footer
 
