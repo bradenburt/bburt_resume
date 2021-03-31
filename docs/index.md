@@ -41,7 +41,7 @@ __Center for Space Nuclear Research__, Idaho Falls, ID
 - Analyzed Serpent output files and gave recommendations for how to further pursue the goal
 
 
-### Data Science Project Manager
+### Data Science Projects
 
 `September 2020 - December 2020`
 __Madison High School__, Consultant through Research and Business Development Center
