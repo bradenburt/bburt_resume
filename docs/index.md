@@ -44,19 +44,25 @@ __Center for Space Nuclear Research__, Idaho Falls, ID
 ### Data Science Projects
 
 `January 2021 - April 2021`
-__IRS 990__
+__IRS 990 (Non-Profit) Predictions__
 
 - Predictive model for non-profit organizations, classifying them into their IRS categories using Natural Language Processing
-- Performed machine learning and big data analytics locally using PySpark and Docker, and then in a cloud based system using Microsoft Azure and Databricks
-- ***Bennifits???*** This enabled them to streamline their tax season
+- Performed machine learning and big data analytics locally using PySpark and Docker, and then in a cloud based system using Azure Databricks
+- Created model to predict non-profit categories with 90% precision 
 
 `September 2020 - December 2020`
 __Madison High School__, Consultant through Research and Business Development Center
 
-- Managed a team of students who received a local high school basketball team’s statistics
-- ***What tools did you use???*** Created visualizations **using what?**
-- ***Bennifits???*** This taught students the importance of data science and generated useful feedback in order to better help coaches and players understand their performance 
+- Managed a team of students who received a local high school basketball team’s statistics to analyze
+- Git/Github managed project that leveraged Python to create visuals in the Altiar package
+- Trained beginner-level team members on basics of object-oriented design, git and version control, databases and queries, and code documentation
 
+`September 2020 - December 2020`
+__Fantasy Basketball Dashboard__
+
+- Dashboard for Fantasy Basketball reference that shows previous season's leaders to help in decision making for next Fantasy season
+- Used R/Rmd to clean and prepare previous season's data to find fantasy stat leaders with Tidyverse, Plotly and Lubridate, and built dashboard in Rmd using FlexDashboard package
+- Enables users to keep track of their favorite draft picks as well as players who have been chosen already
 
 ### Scientific Research Teams
 
@@ -65,8 +71,6 @@ __Materials Simulation Research Group__
 
 - Materials science research into new quinary alloys using Density Functional Theory calculations 
 - Implemented machine learning strategies done in languages and tools including Python, Git/Github, UNIX, VASP, and C++
-- ***Bennifits???*** Made it easier to conduct experiments **???**
-
 
 `November 2017 - December 2017`
 __High Altitude Balloon Research__ 
