@@ -48,13 +48,14 @@ __IRS 990__
 
 - Predictive model for non-profit organizations, classifying them into their IRS categories using Natural Language Processing
 - Performed machine learning and big data analytics locally using PySpark and Docker, and then in a cloud based system using Microsoft Azure and Databricks
-- 
+- ***Bennifits???*** This enabled them to streamline their tax season
 
 `September 2020 - December 2020`
 __Madison High School__, Consultant through Research and Business Development Center
 
 - Managed a team of students who received a local high school basketball team’s statistics
-- Created visualizations and generated useful feedback in order to better help coaches and players understand their performance
+- ***What tools did you use???*** Created visualizations **using what?**
+- ***Bennifits???*** This taught students the importance of data science and generated useful feedback in order to better help coaches and players understand their performance 
 
 
 ### Scientific Research Teams
@@ -64,11 +65,12 @@ __Materials Simulation Research Group__
 
 - Materials science research into new quinary alloys using Density Functional Theory calculations 
 - Implemented machine learning strategies done in languages and tools including Python, Git/Github, UNIX, VASP, and C++
+- ***Bennifits???*** Made it easier to conduct experiments **???**
 
 
 `November 2017 - December 2017`
 __High Altitude Balloon Research__ 
-
+.
 - Built and coded a data logger using an Arduino Platform to measure the changing temperature from the Troposphere to the Stratosphere
 - Launched the data logger on a near space project where a high altitude weather balloon rose 30 kilometers off the ground and collected the changing temperature
 - Compared results to previous studies and findings from other universities to determine the validity and accuracy of experiment instrumentation and readings
