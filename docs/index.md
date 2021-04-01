@@ -43,6 +43,13 @@ __Center for Space Nuclear Research__, Idaho Falls, ID
 
 ### Data Science Projects
 
+`January 2021 - April 2021`
+__IRS 990__
+
+- Predictive model for non-profit organizations, classifying them into their IRS categories using Natural Language Processing
+- Performed machine learning and big data analytics locally using PySpark and Docker, and then in a cloud based system using Microsoft Azure and Databricks
+- 
+
 `September 2020 - December 2020`
 __Madison High School__, Consultant through Research and Business Development Center
 
