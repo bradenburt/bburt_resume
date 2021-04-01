@@ -32,6 +32,8 @@ __Centauri Corp__, Dayton, OH
 
 - Responsible for assisting in the research and development of a new laboratory focused on platform simulation and modeling
 - Developed test CAD models, initializing and testing of optical simulation toolsets, and evaluation of CAD configurations for simulation usage
+- Saved time and resources on startup of new laboratory
+
 
 `June 2019 - August 2019`
 __Center for Space Nuclear Research__, Idaho Falls, ID
@@ -47,15 +49,17 @@ __Center for Space Nuclear Research__, Idaho Falls, ID
 __IRS 990 (Non-Profit) Predictions__
 
 - Predictive model for non-profit organizations, classifying them into their IRS categories using Natural Language Processing
-- Performed machine learning and big data analytics locally using PySpark and Docker, and then in a cloud based system using Azure Databricks
+- Performed machine learning and big data analytics locally using Docker, then in Azure Databricks utilizing tools such as PySpark, SparkSQL and Docker
 - Created model to predict non-profit categories with 90% precision 
+
 
 `September 2020 - December 2020`
 __Madison High School__, Consultant through Research and Business Development Center
 
-- Managed a team of students who received a local high school basketball team’s statistics to analyze
+- Managed a team of students that received a local high school basketball team’s statistics to analyze
 - Git/Github managed project that leveraged Python to create visuals in the Altiar package
 - Trained beginner-level team members on basics of object-oriented design, git and version control, databases and queries, and code documentation
+
 
 `September 2020 - December 2020`
 __Fantasy Basketball Dashboard__
@@ -64,6 +68,7 @@ __Fantasy Basketball Dashboard__
 - Used R/Rmd to clean and prepare previous season's data to find fantasy stat leaders with Tidyverse, Plotly and Lubridate, and built dashboard in Rmd using FlexDashboard package
 - Enables users to keep track of their favorite draft picks as well as players who have been chosen already
 
+
 ### Scientific Research Teams
 
 `September 2019 - March 2020`
@@ -71,6 +76,7 @@ __Materials Simulation Research Group__
 
 - Materials science research into new quinary alloys using Density Functional Theory calculations 
 - Implemented machine learning strategies done in languages and tools including Python, Git/Github, UNIX, VASP, and C++
+
 
 `November 2017 - December 2017`
 __High Altitude Balloon Research__ 
